@@ -2,7 +2,6 @@
 
 Note!!!<br>
 I used stale as example but you can change it to your desired name.<br>
-<br>
 1) Create User<br>
 adduser stale<br>
 <br>
@@ -17,3 +16,7 @@ wget -q https://raw.githubusercontent.com/Stale-1/VNC-Ubuntu/main/install.sh && 
 <br>
 5) Configure VNC<br>
 sudo ./vnc.sh<br>
+
+
+
+Done, VNC Server is now running on Port 5901
