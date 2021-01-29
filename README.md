@@ -10,7 +10,7 @@ adduser stale<br>
 usermod -aG sudo stale<br>
 <br>
 3) Download and Install needed packages<br>
-wget -q https://raw.githubusercontent.com/Stale-1/VNC-Ubuntu/main/install.sh && sudo chmod +x install.sh && ./install.sh<br>
+wget -q https://raw.githubusercontent.com/Stale-1/VNC-Ubuntu/main/install.sh && sudo chmod +x install.sh && sudo ./install.sh<br>
 <br>
 4) Enter your desired password to access your VNC Server.<br>
    (6-8 characters only, no spaces)<br>
